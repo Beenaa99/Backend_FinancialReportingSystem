@@ -1,0 +1,6 @@
+payment_id,payment_type
+1,Credit Card
+2,Debit Card
+3,Cash
+4,Check
+5,Online Transfer

@@ -1,0 +1,171 @@
+product_id,product_name,product_category,unit_price
+1,Huawei Console Mini,Electronics,1745.45
+2,Philips Speaker 4K,Electronics,677.49
+3,Toshiba Headphones Mini,Electronics,429.62
+4,Samsung Camera Pro,Electronics,1896.04
+5,JBL Drone HD,Electronics,923.52
+6,Sony Tablet Plus,Electronics,1370.53
+7,Huawei TV Ultra,Electronics,1011.24
+8,Panasonic Watch Ultra,Electronics,1921.91
+9,Acer Smartphone 4K,Electronics,1476.64
+10,Canon Smartphone Advanced,Electronics,1342.84
+11,Philips Headphones HD,Electronics,638.1
+12,Acer Camera 2,Electronics,1231.47
+13,JBL Drone 4K,Electronics,1578.5
+14,Pioneer Camera 2,Electronics,1042.4
+15,Canon Speaker Xtreme,Electronics,151.4
+16,Samsung Laptop Advanced,Electronics,670.96
+17,Huawei Headphones III,Electronics,526.57
+18,Lenovo Tablet II,Electronics,241.88
+19,Pioneer Watch Advanced,Electronics,1533.3
+20,Panasonic Tablet III,Electronics,1696.46
+21,Samsung Drone 2,Electronics,588.45
+22,Asus Console 4K,Electronics,217.16
+23,Canon Console Elite,Electronics,875.26
+24,Microsoft Tablet Elite,Electronics,287.36
+25,Apple Camera III,Electronics,1754.95
+26,Philips Speaker Mini,Electronics,717.97
+27,Apple Tablet HD,Electronics,1785.51
+28,Xiaomi TV HD,Electronics,563.6
+29,Philips Speaker 3,Electronics,608.38
+30,HP Speaker 2,Electronics,1102.23
+31,Chanel Dress Elite,Apparel,98.92
+32,Under Armour Shirt 4K,Apparel,113.88
+33,Vans Cap Xtreme,Apparel,204.68
+34,Zara Cap III,Apparel,109.59
+35,Gap Shoes II,Apparel,189.22
+36,Ralph Lauren Tracksuit Pro,Apparel,105.07
+37,Vans Sweater X,Apparel,71.51
+38,Chanel Shirt Advanced,Apparel,69.24
+39,Under Armour Shirt Plus,Apparel,461.35
+40,Vans Pants Max,Apparel,217.87
+41,Supreme Shirt Max,Apparel,388.53
+42,Patagonia Sweater Ultra,Apparel,148.07
+43,North Face Shoes III,Apparel,477.76
+44,Chanel Pants HD,Apparel,487.4
+45,Chanel Shoes Xtreme,Apparel,385.61
+46,Levi’s Shorts 3,Apparel,291.7
+47,Uniqlo Shoes X,Apparel,274.4
+48,Ralph Lauren Tracksuit X,Apparel,116.97
+49,Versace Shorts Elite,Apparel,67.69
+50,Nike Sweater II,Apparel,271.43
+51,Versace Cap Xtreme,Apparel,55.68
+52,Ralph Lauren Dress Plus,Apparel,53.05
+53,Versace Shoes Advanced,Apparel,130.33
+54,Supreme Dress Mini,Apparel,285.39
+55,Patagonia Shirt X,Apparel,413.74
+56,Levi’s Dress X,Apparel,471.26
+57,Gucci Shoes 4K,Apparel,90.4
+58,Supreme Shirt Mini,Apparel,163.75
+59,Uniqlo Jacket HD,Apparel,441.83
+60,Zara Cap Xtreme,Apparel,219.74
+61,La-Z-Boy Stool II,Furniture,1674.28
+62,Ikea Table 2,Furniture,318.9
+63,Roche Bobois Bookcase Plus,Furniture,1003.8
+64,West Elm Desk Advanced,Furniture,2548.51
+65,Pottery Barn Desk II,Furniture,2889.39
+66,Ikea Bed HD,Furniture,1357.82
+67,Bernhardt Desk 3,Furniture,2010.44
+68,Ikea Bookcase II,Furniture,412.32
+69,Pottery Barn Sofa 4K,Furniture,280.85
+70,Restoration Hardware Stool 3,Furniture,1928.03
+71,West Elm Sofa Plus,Furniture,2768.91
+72,Flanigan Mirror II,Furniture,933.12
+73,Roche Bobois Mirror Max,Furniture,1058.81
+74,Flanigan Desk III,Furniture,2018.5
+75,Crate & Barrel Stool III,Furniture,2163.3
+76,Stickley Dresser Mini,Furniture,1119.92
+77,Baker Bed III,Furniture,1930.94
+78,Roche Bobois Chair 3,Furniture,778.47
+79,Steelcase Table Elite,Furniture,1389.3
+80,Raymour Dresser 2,Furniture,2801.55
+81,Raymour Sofa Advanced,Furniture,1269.45
+82,Williams-Sonoma Sofa Max,Furniture,2508.77
+83,Williams-Sonoma Lamp II,Furniture,2318.23
+84,Flanigan Table X,Furniture,1857.88
+85,Baker Chair HD,Furniture,1015.15
+86,Raymour Lamp Xtreme,Furniture,2939.77
+87,Restoration Hardware Desk X,Furniture,1020.18
+88,Ikea Table Ultra,Furniture,2800.32
+89,Bernhardt Dresser Elite,Furniture,1919.99
+90,Williams-Sonoma Mirror Ultra,Furniture,559.38
+91,My Little Pony Game II,Toys,18.85
+92,Monopoly Action Figure HD,Toys,94.31
+93,Lego Building Set 2,Toys,121.14
+94,My Little Pony Plush Mini,Toys,222.07
+95,LeapFrog Building Set 3,Toys,240.6
+96,Barbie Game X,Toys,199.58
+97,Barbie Puzzle 3,Toys,193.76
+98,Fisher-Price Puzzle Plus,Toys,78.59
+99,Playmobil Puzzle Mini,Toys,143.23
+100,Lego Vehicle Mini,Toys,110.9
+101,Ravensburger Card Game HD,Toys,150.37
+102,Lego Plush Plus,Toys,191.45
+103,Uno Puzzle 3,Toys,249.68
+104,Ravensburger Card Game Elite,Toys,237.45
+105,Monopoly Building Set X,Toys,93.85
+106,Nerf Action Figure Advanced,Toys,204.27
+107,Bruder Puzzle Pro,Toys,91.2
+108,Ravensburger Board Game III,Toys,219.55
+109,My Little Pony Building Set Pro,Toys,89.43
+110,Little Tikes Vehicle II,Toys,163.5
+111,Monopoly Plush Xtreme,Toys,163.04
+112,Little Tikes Vehicle Advanced,Toys,157.51
+113,LeapFrog Building Set 4K,Toys,147.32
+114,Hot Wheels Vehicle X,Toys,216.25
+115,Nerf Vehicle Elite,Toys,203.9
+116,Monopoly Educational Kit Plus,Toys,112.62
+117,Little Tikes Action Figure X,Toys,145.68
+118,Hot Wheels Game III,Toys,72.01
+119,Little Tikes Game HD,Toys,154.19
+120,Bruder Vehicle Elite,Toys,162.46
+121,The Silent Quest: A Travel Tale,Books,20.6
+122,The True Heart: A Thriller Tale,Books,94.44
+123,The True Legacy: A Children’s Tale,Books,33.26
+124,The Broken Promise: A Thriller Tale,Books,80.5
+125,The Red Fire: A Fantasy Tale,Books,50.6
+126,The Silver Journey: A Children’s Tale,Books,111.13
+127,The Silver Promise: A Adventure Tale,Books,141.75
+128,The Golden Shadow: A Science Tale,Books,39.56
+129,The Ancient Promise: A Mystery Tale,Books,122.35
+130,The Eternal Promise: A Children’s Tale,Books,101.6
+131,The Lost Promise: A Sci-Fi Tale,Books,128.68
+132,The Wild Heart: A Adventure Tale,Books,30.98
+133,The Final Secret: A Sci-Fi Tale,Books,87.17
+134,The True Ice: A Biography Tale,Books,120.31
+135,The True Promise: A Health Tale,Books,76.04
+136,The Dark Promise: A Mystery Tale,Books,121.89
+137,The Silent Destiny: A Humor Tale,Books,121.07
+138,The Ancient Dream: A Adventure Tale,Books,50.6
+139,The Eternal Destiny: A Health Tale,Books,121.15
+140,The Ancient Dream: A Fantasy Tale,Books,45.0
+141,The Silver Heart: A Health Tale,Books,107.28
+142,The True Dream: A Fantasy Tale,Books,61.46
+143,The Silent Storm: A Adventure Tale,Books,143.86
+144,The Eternal Legacy: A Self-help Tale,Books,85.3
+145,The True Night: A Romance Tale,Books,126.16
+146,The Golden Destiny: A Sci-Fi Tale,Books,63.47
+147,The Silent Legacy: A Biography Tale,Books,52.57
+148,The Silver Heart: A Sci-Fi Tale,Books,69.1
+149,The Red Legacy: A History Tale,Books,54.14
+150,The Broken Quest: A Health Tale,Books,9.41
+151,The Dark Heart: A Biography Tale,Books,99.35
+152,The Silent Dream: A Science Tale,Books,31.62
+153,The True Promise: A Science Tale,Books,107.55
+154,The Silver Storm: A History Tale,Books,53.16
+155,The Dark Star: A Biography Tale,Books,67.06
+156,The Eternal Quest: A History Tale,Books,118.13
+157,The Lost Fire: A Self-help Tale,Books,34.29
+158,The Golden Ice: A Fantasy Tale,Books,87.16
+159,The True Storm: A Health Tale,Books,144.51
+160,The Forbidden Shadow: A Humor Tale,Books,66.58
+161,The Silent Secret: A Mystery Tale,Books,142.63
+162,The True Night: A Biography Tale,Books,62.57
+163,The Forbidden Dream: A Thriller Tale,Books,107.52
+164,The Silver Secret: A Health Tale,Books,82.3
+165,The Eternal Dream: A Cookbook Tale,Books,100.7
+166,The Dark Fire: A Science Tale,Books,13.78
+167,The Golden Legacy: A Fantasy Tale,Books,124.7
+168,The Final Shadow: A Mystery Tale,Books,43.25
+169,The Ancient Heart: A Fantasy Tale,Books,68.27
+170,The Broken Secret: A Cookbook Tale,Books,84.63
