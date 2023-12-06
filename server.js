@@ -9,7 +9,7 @@ const app = express();
 app.use(cors());
 
 // Connect to MongoDB
-const conn_string = 'mongodb+srv://dbmsproject15:dbmsproject15@cluster0.u6wy93z.mongodb.net/dbmsproj?retryWrites=true&w=majority'
+const conn_string = 'mongodb+srv://username:password@cluster0.u6wy93z.mongodb.net/dbmsproj?retryWrites=true&w=majority'
 mongoose.connect(conn_string, { useNewUrlParser: true, useUnifiedTopology: true })
 .then(
   console.log('connected to mongo db')
